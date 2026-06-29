@@ -1,0 +1,19 @@
+.github/workflows/ci.yml
+  s_f03727cc1b24ad::t_ef2bc663a6f0cd 1-19
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.3",
+  "base_commit_sha": "7a5ed66ace1c3ac0a07a82a177625fa03f3a03a5",
+  "prompts": {},
+  "sessions": {
+    "s_f03727cc1b24ad": {
+      "agent_id": {
+        "tool": "cursor",
+        "id": "c911e1a7-0e9a-4916-a041-86a0adb60ce0",
+        "model": "default"
+      },
+      "human_author": "Enes Parlak <eparlak996@gmail.com>"
+    }
+  }
+}
