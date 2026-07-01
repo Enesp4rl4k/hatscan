@@ -1,0 +1,51 @@
+hatscan/yolo_pose.py
+  s_9476544cedf6e6::t_56901a81ab4b9e 1-80
+scripts/run_yolo_eval.py
+  s_9476544cedf6e6::t_0ff88bdeeaf1fa 1-44
+tests/test_pose.py
+  s_9476544cedf6e6::t_f40a86557f6b38 1-13,19-20,30-59
+  s_9476544cedf6e6::t_9b179181b179f0 14-18,21-29
+notebooks/train_colab.ipynb
+  s_9476544cedf6e6::t_20d497854633cd 1-116
+scripts/train_yolo.py
+  s_9476544cedf6e6::t_0e8597c114d609 23-24
+  s_9476544cedf6e6::t_cef11bacf96541 1-22,25-40
+scripts/run_eval.py
+  s_9476544cedf6e6::t_2000ff540dc5fc 1-27
+scripts/build_dataset.py
+  s_9476544cedf6e6::t_6afb6c51eaad58 1-34,37-59,65,67,81-83,87-91
+  s_9476544cedf6e6::t_165db75d14089f 35-36
+  s_9476544cedf6e6::t_46ef639f1e5105 60-64,66,68-80,84-86
+.gitignore
+  s_9476544cedf6e6::t_c12dec57b864f5 5-10
+tests/test_eval.py
+  s_9476544cedf6e6::t_550cd6b7c8bf13 1-42
+tests/test_labels.py
+  s_9476544cedf6e6::t_8c1d5825bd2e56 1-40
+hatscan/labels.py
+  s_9476544cedf6e6::t_ecd79655db1fe8 1-55
+  s_9476544cedf6e6::t_ce4d163a0a3dc5 56-83,88
+  s_9476544cedf6e6::t_afbfba3fa7f980 84-87
+hatscan/synthetic.py
+  s_9476544cedf6e6::t_8e9e19ddbbfc06 1-6,9-11,15,17-32,39-40,55-89,91-92
+hatscan/eval.py
+  s_9476544cedf6e6::t_9a57b0a57fc123 1-15,17-96,131,133-143,145-147,149-158,161-184
+  s_9476544cedf6e6::t_19dab9d7e95ac7 97-130,132,144,148,159-160
+  s_9476544cedf6e6::t_54f882ca5a2696 16
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.5",
+  "base_commit_sha": "7e25e2e720a3f4b015decbbc389cef896ca52f9f",
+  "prompts": {},
+  "sessions": {
+    "s_9476544cedf6e6": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "beaa6857-63f5-4563-b330-15d3d02ef7d8",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "Enes Parlak <eparlak996@gmail.com>"
+    }
+  }
+}
